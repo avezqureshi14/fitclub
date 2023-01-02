@@ -1,5 +1,4 @@
-#FITCLUB | Developed using REACT JS and RAPID API
-
+# FITCLUB | Developed using REACT JS and RAPID API
 Application [Live Link](https://fitclub-avez.netlify.app/).
 
 FITCLUB is a fitness Excercise App, with more 1000+ excercise animations, youtube video recommendation feature, similar excercise recommendation feature and much more, It is build using React JS
